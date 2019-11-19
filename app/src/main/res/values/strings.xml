@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loan Interest Calculator</string>
+    <string name="initial">Initial Loan Amount</string>
+    <string name="interest_per_year">Interest rate per Year</string>
+    <string name="years">Number of Years</string>
+    <string name="calculate">Calculate</string>
+    <string name="emi">EMI</string>
+    <string name="interest">Total Loan Interest</string>
+</resources>
